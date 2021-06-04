@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/jq9FgpJ.png)
 
-# Batchomatic
+# Batchomatic - backup your tweeaks, and repos
 
 Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file
 
